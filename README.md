@@ -6,7 +6,7 @@ A curated list of awesome Self-driving tutorials, projects and communities.
 
 * **[Courses](#courses)**  
 
-* **[Source codes](#tutorials)**  
+* **[Source codes](#source-codes)**  
 
 * **[Papers](#papers)**  
 
@@ -38,6 +38,9 @@ A curated list of awesome Self-driving tutorials, projects and communities.
 2.  [Open source self-driving car](https://github.com/udacity/self-driving-car/) by Udacity (2016)
 
 3.  [Baidu (not opened yet)]()
+
+4.  [Autoware](https://github.com/CPFL/Autoware) by Computing Platforms Federated Labratory (2016)
+
 
 ### Papers
 *You can also find classical autonomous driving papers from [here](https://github.com/takeitallsource/awesome-autonomous-vehicles)*
