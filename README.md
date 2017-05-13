@@ -60,9 +60,7 @@ A curated list of awesome Self-driving tutorials, projects and communities.
 
 #### Academia
 
-1.  [Hoge]() by Hoge  (MM/DD/yyyy)
-
-2.  [Dr. Federico Tombari at Technische Universität München Institut für Informatik](http://campar.in.tum.de/Main/FedericoTombari)
+ - [Dr. Federico Tombari at Technische Universität München Institut für Informatik](http://campar.in.tum.de/Main/FedericoTombari)
 
 
 #### Industry
